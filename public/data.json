@@ -1,0 +1,273 @@
+{
+
+    "data_news" : [
+
+        {
+
+            "id" : 1,
+            "title" : "Sweden is a nice alternative!",
+            "photo" : "https://www.planetware.com/wpimages/2020/02/sweden-in-pictures-beautiful-places-to-photograph.jpg",
+            "text" : "Hahahahahahhahahahaah",
+            "category" : "Travel",
+            "color" : "red",
+            "subtitle" : "Sweden is a really beaultiful country with a lot..."
+
+        }
+        ,
+        
+        {
+
+            "id" : 2,
+            "title" : "The quick brown fox jumps over the lazy dog...",
+            "photo" : "https://images.superguide.nl/ilwoG3lcN9ukvQIKRrS4KfjEQLA=/0x0:1080x722/890x0/smart/superguide.nl/s3fs-public/main_media/silence-of-the-lambs.png?itok=jHF-4aTV",
+            "text" : "This girl is on fire!",
+            "category" : "Celebrities",
+            "color" : "orange",
+            "subtitle" : "The quick brown fox jumps over the lazy dog..."
+
+        }
+        ,
+        {
+
+            "id" : 3,
+            "title" : "The quick brown fox jumps over the lazy dog...",
+            "photo" : "https://midias.correiobraziliense.com.br/_midias/jpg/2021/08/31/675x450/1_bolsonaro_afp-6832982.jpg",
+            "text" : "The quick brown fox jumps over the lazy dog...",
+            "category" : "Politics",
+            "color" : "yellow",
+            "subtitle" : "The quick brown fox jumps over the lazy dog..."
+
+        }
+        ,
+        {
+
+            "id" : 4,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://media.timeout.com/images/105240237/image.jpg",
+            "text" : "Japannnnn",
+            "category" : "Travel",
+            "color" : "red",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 5,
+            "title" : "Dua Lipa's new album.",
+            "photo" : "https://www.kboing.com.br/fotos/imagens/5a706553cdec0.jpg",
+            "text" : "aaaaaaaaaaaaaaaa",
+            "category" : "Celebrities",
+            "color" : "orange",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 6,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://clubedovideogame.com.br/wp-content/uploads/2019/11/Beat-saber.jpg",
+            "text" : "The quick brown fox jumps over",
+            "category" : "Games",
+            "color" : "green",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 7,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://www.indiewire.com/wp-content/uploads/2021/01/MCDLITH_WB021.jpg?w=780",
+            "text" : "Hahahahahahhahahahaah",
+            "category" : "Celebrities",
+            "color" : "green",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 8,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "http://www.cinemaniacos.com.br/wp-content/uploads/2021/05/Identidade.jpg",
+            "text" : "aaaaa",
+            "category" : "Movies",
+            "color" : "orange",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 9,
+            "title" : "The quick brown fox jumps overs",
+            "photo" : "https://i0.statig.com.br/bancodeimagens/1a/wk/s8/1awks8e5cfq1qrexyrakyx0gg.jpg",
+            "text" : "The quick brown fox jumps over",
+            "category" : "Politics",
+            "color" : "yellow",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 10,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://www.hypeness.com.br/1/2014/12/ice3.jpg",
+            "text" : "Japannnnn",
+            "category" : "Travel",
+            "color" : "red",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 11,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://br.jetss.com/wp-content/uploads/2019/11/emma-capa.jpg",
+            "text" : "Ep",
+            "category" : "Celebrities",
+            "color" : "orange",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 12,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://i.insider.com/5c3e4ea252414709304b6583?width=1136&format=jpeg",
+            "text" : "Ep",
+            "category" : "Celebrities",
+            "color" : "orange",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 13,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://noticias.plu7.com/wp-content/uploads/2021/09/O-boxeador-Manny-Pacquiao-indicado-como-candidato-presidencial-para-a.jpg",
+            "text" : "Bnnnn",
+            "category" : "Politics",
+            "color" : "yellow",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 14,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://thumbs.gfycat.com/AngrySecretAustralianshelduck-size_restricted.gif",
+            "text" : "Japannnnn",
+            "category" : "Travel",
+            "color" : "red",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 15,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://cineversoparalelo.files.wordpress.com/2015/11/memento.jpg",
+            "text" : "She likes to be dominated, cause she is a female dog",
+            "category" : "Celebrities",
+            "color" : "orange",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 16,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://www.planocritico.com/wp-content/uploads/2015/01/11-Portal-3.jpg",
+            "text" : "The quick brown fox jumps over",
+            "category" : "Games",
+            "color" : "green",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 17,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://www.annalindhfoundation.org/sites/default/files/styles/main_image_desktop/public/2020-03/mnzr_2.jpg?itok=a23FBaKW",
+            "text" : "The quick brown fox jumps over",
+            "category" : "Travel",
+            "color" : "red",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 18,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://radiomixfm.com.br/wp-content/uploads/2021/04/Chucky-atual.png",
+            "text" : "The quick brown fox jumps over",
+            "category" : "Celebrities",
+            "color" : "green",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 19,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://cdn.theatlantic.com/thumbor/IF5oftiXTfL65EWkREJLwsVuBDA=/0x0:2000x1125/960x540/media/img/mt/2020/01/PoliticalParlorGame/original.jpg",
+            "text" : "The quick brown fox jumps over",
+            "category" : "Politics",
+            "color" : "yellow",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 20,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/pia24543-1-16.jpg",
+            "text" : "Japannnnn",
+            "category" : "Travel",
+            "color" : "red",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 21,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://br.web.img2.acsta.net/r_654_368/newsv7/20/11/04/16/01/5663227.jpg",
+            "text" : "The quick brown fox jumps over",
+            "category" : "Celebrities",
+            "color" : "orange",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        ,
+        {
+
+            "id" : 22,
+            "title" : "The quick brown fox jumps over",
+            "photo" : "https://f.i.uol.com.br/fotografia/2021/01/14/16106761856000f7d91ed6b_1610676185_3x2_md.jpg",
+            "text" : "The quick brown fox jumps over",
+            "category" : "Celebrities",
+            "color" : "orange",
+            "subtitle" : "The quick brown fox jumps over"
+
+        }
+        
+
+    ]
+
+}
